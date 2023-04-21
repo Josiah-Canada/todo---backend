@@ -1,4 +1,4 @@
-const ToDoModel = require('../models/ToDoModel')
+const ToDoModel = require('../models/todomodel')
 
 
 module.exports.getToDo = async (req, res) => {
